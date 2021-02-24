@@ -1,0 +1,4 @@
+1、/api/v1.0/encrypted？username=""&password="" # 获取用户在教务处网的登陆状态
+2、/api/v1.0/schedule?username="" # 获取学生的基本信息
+3、/api/v1.0/grade/list?username=""&grade=""&educational_system="" # grade为年级, education_sysyem为在校年限
+4、/api/v1.0/achievement?username=""&semesterId="" # semesterID为成绩ID
